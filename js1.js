@@ -8,7 +8,7 @@ function fahrenheitCelsiukseksi(fahrenheit) {
     
     return celsius;
 }
-123
+
 
 function muunna() {
     let syote = fahrenheitSyote.value;
